@@ -59,4 +59,3 @@ Explain the practical relevance in a company environment.
 
 - What I understood
 - What I would do better next time
-'@ | Set-Content -Encoding utf8 templates\lab-template.md

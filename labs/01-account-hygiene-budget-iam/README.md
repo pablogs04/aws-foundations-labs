@@ -85,4 +85,3 @@ Store sanitized screenshots and non-sensitive command outputs in:
 - Root MFA does not replace IAM user MFA
 - A named AWS CLI profile is safer than relying on `default`
 - Budget alerts help, but cleanup discipline is still mandatory
-'@ | Set-Content -Encoding utf8 labs\01-account-hygiene-budget-iam\README.md

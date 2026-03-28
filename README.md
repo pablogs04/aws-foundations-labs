@@ -48,4 +48,3 @@ This repository contains my hands-on AWS foundations labs focused on:
 ## Current labs
 
 - `01-account-hygiene-budget-iam` - in progress
-'@ | Set-Content -Encoding utf8 README.md
