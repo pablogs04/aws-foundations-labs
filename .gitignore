@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets / cloud
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.crt
+.aws/
+credentials
+
+# Terraform / IaC future-proofing
+terraform.tfvars
+*.tfstate
+*.tfstate.*
+
+# Misc
+*.log
