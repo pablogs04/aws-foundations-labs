@@ -1,4 +1,3 @@
-@'
 # aws-foundations-labs
 
 Sprint 2 of the **DevOps Dublin 2026** project.
