@@ -13,4 +13,4 @@
 - **blast radius**: the scope of potential damage from a mistake
 - **validation**: the checks that prove a task worked correctly
 - **rollback**: the path to revert a change safely
-- **tracking branch**: the local branch linked to a remote branch in Git
+- **tracking branch**: the local branch linked to a remote branch in Gits

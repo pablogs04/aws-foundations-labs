@@ -24,4 +24,4 @@ terraform.tfvars
 *.tfstate.*
 
 # Misc
-*.log
+*.logs
